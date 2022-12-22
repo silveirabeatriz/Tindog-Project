@@ -2,4 +2,4 @@
 
 Tindog Project
 
-Confira Aqui: https://silveirabeatriz.github.io/Web-Development-Udemy/
+Confira Aqui: https://silveirabeatriz.github.io/Tindog-Project/
